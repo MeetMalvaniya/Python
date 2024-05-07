@@ -1,0 +1,5 @@
+print("Hello")
+print("World")
+print("Hello","World")
+print(34)
+print(45-23)
